@@ -1,0 +1,10 @@
+# mengabaikkan file
+config.txt 
+
+
+# mengabaikkan semua file exe
+*.exe
+
+# mengabaikkan semua file di dalam folder data
+data/
+
